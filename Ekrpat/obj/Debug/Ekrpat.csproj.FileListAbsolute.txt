@@ -1,0 +1,17 @@
+D:\Tests\Ekrpat\Ekrpat\bin\Debug\Ekrpat.exe.config
+D:\Tests\Ekrpat\Ekrpat\bin\Debug\Ekrpat.exe
+D:\Tests\Ekrpat\Ekrpat\bin\Debug\Ekrpat.pdb
+D:\Tests\Ekrpat\Ekrpat\obj\Debug\Ekrpat.csprojResolveAssemblyReference.cache
+D:\Tests\Ekrpat\Ekrpat\obj\Debug\MainWindow.g.cs
+D:\Tests\Ekrpat\Ekrpat\obj\Debug\App.g.cs
+D:\Tests\Ekrpat\Ekrpat\obj\Debug\Ekrpat_MarkupCompile.cache
+D:\Tests\Ekrpat\Ekrpat\obj\Debug\Ekrpat_MarkupCompile.lref
+D:\Tests\Ekrpat\Ekrpat\obj\Debug\MainWindow.baml
+D:\Tests\Ekrpat\Ekrpat\obj\Debug\Ekrpat.g.resources
+D:\Tests\Ekrpat\Ekrpat\obj\Debug\Ekrpat.Properties.Resources.resources
+D:\Tests\Ekrpat\Ekrpat\obj\Debug\Ekrpat.csproj.GenerateResource.Cache
+D:\Tests\Ekrpat\Ekrpat\obj\Debug\Ekrpat.exe
+D:\Tests\Ekrpat\Ekrpat\obj\Debug\Ekrpat.pdb
+D:\GIT\Ekrpat-bjp-ly.p\Ekrpat\bin\Debug\Ekrpat.exe.config
+D:\GIT\Ekrpat-bjp-ly.p\Ekrpat\obj\Debug\Ekrpat.exe
+D:\GIT\Ekrpat-bjp-ly.p\Ekrpat\obj\Debug\Ekrpat.pdb
