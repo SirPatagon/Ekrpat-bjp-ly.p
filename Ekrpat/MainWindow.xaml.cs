@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Ekrpat.Styles;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,21 +19,21 @@ namespace Ekrpat
     /// <summary>
     /// Interaktionslogik für MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MainWindow : CardWindow
     {
         public MainWindow()
         {
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void ConvertToDvorak(object sender, RoutedEventArgs e)
         {
-            result.Text = Converter.ConvertToDvorak(qwerzInput.Text);
+            new TextRange(tbDvorak.Document.ContentStart, tbDvorak.Document.ContentEnd).Text = Converter.ConvertToDvorak(new TextRange(tbQwertz.Document.ContentStart, tbQwertz.Document.ContentEnd).Text);
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private void ConvertToQwertz(object sender, RoutedEventArgs e)
         {
-            result.Text = Converter.ConvertToQwertz(dvorakInput.Text);
+            new TextRange(tbQwertz.Document.ContentStart, tbQwertz.Document.ContentEnd).Text = Converter.ConvertToQwertz(new TextRange(tbDvorak.Document.ContentStart, tbDvorak.Document.ContentEnd).Text);
         }
     }
 }
